@@ -1,2 +1,2 @@
 # selenium_python
-Przykład zastosowania Page object pattern i extension dla webdrivera
+Szkielet aplikacji do testów e2e w Selenium(python) z zastosowaniem Page Object pattern, rozszerzenia dla webdrivera.
